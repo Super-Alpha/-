@@ -1,6 +1,6 @@
 {
-  "remoteURL": "https://github.com/Super-Alpha/Development-Language.git",
+  "remoteURL": "git@github.com:Super-Alpha/Development-Language.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": true
+  "isSyncOnLoad": false
 }
